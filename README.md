@@ -17,7 +17,7 @@ For example, in brackets indicates `(e. 5h, s.t. 1d)` or `(5h 1d)`. This means t
 * Execute from GitHub (e. 3d)
 * Execute from local files by pipeline (3d)
 * Execute from GitHub by pipeline (3d)
-## PostMan
+## Postman
 ### Primarily
 * Parameterize of tests (2d)
 * Pre-requests (3d)
@@ -25,9 +25,13 @@ For example, in brackets indicates `(e. 5h, s.t. 1d)` or `(5h 1d)`. This means t
 * Validating the JSON response against the appropriate schema (3d)
 ### Secondarily
 * Mock-services (1w)
+## Mocking for testing
+* Mockito ([https://site.mockito.org/](https://site.mockito.org/))
+## Testing of Microservices Architecture
+* [https://spring.io/blog/2015/07/14/microservices-with-spring](https://spring.io/blog/2015/07/14/microservices-with-spring)
 ## Performance testing through JMeter (1M)
 ## Grafana monitoring (2w)
-## Data base
+## Data Base
 ### Primarily
 * database backup, archiving and send by email (3d + 1h + 3h)
 * JOIN - types (2d)
@@ -37,8 +41,12 @@ For example, in brackets indicates `(e. 5h, s.t. 1d)` or `(5h 1d)`. This means t
 * EXTENDED EXPLAIN (2d)
 * stored procedures, triggers, etc.(1w)
 ### Secondarily
-* pull of connects (3d)
-* master - slave (4d)
+* Pull of connects (3d)
+* Master - Slave (4d)
+## Virtualisation
+* Docker
+* K8S
+* QEMU
 ## Jenkins
 * Создать несколько jobs и запустить их по очереди/параллельно в одной job'e (1w)
 * Написание своих Pipelines (2w)
